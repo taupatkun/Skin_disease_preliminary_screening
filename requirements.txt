@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch==2.11.0+cpu
+torchvision==0.26.0+cpu
+fastai==2.8.8
+fastcore==2.2.19
+fasttransform==0.0.2
+plum-dispatch==2.9.0
+pillow==11.3.0
+gdown
